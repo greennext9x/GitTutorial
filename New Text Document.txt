@@ -1,3 +1,9 @@
-check count
+﻿check count
 reset
 revert
+hoangcuong
+
+Branch tích hợp(master)
+HEAD: phần đầu brach
+MERGE
+REBASE
